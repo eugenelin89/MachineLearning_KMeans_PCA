@@ -39,7 +39,7 @@ for i=1:K, % iterate over centroids
   centroids(i,:) = x_sum / counter;
 end; 
 
-
+%ps. try vectorized solution later
 
 
 
